@@ -1,9 +1,6 @@
 These are my Git notes for practice.
-<<<<<<< HEAD
 This is a change from main branch
-=======
 This is a change from feature-notes branch
->>>>>>> feature-notes
 Conflicting change from feature-notes branch
 Conflicting change from main branch
-Conflicting change from main branch
+conflicting change from feature notes
